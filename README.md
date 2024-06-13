@@ -37,7 +37,7 @@ The Logistic Regression model achieved good accuracy in predicting whether a son
 
 ## Usage
 
-- Clone the repository: `git clone `
+- Clone the repository: `git clone https://github.com/Panchadip-128/Using-SONAR-data-to-predict-Rock-vs-Mine`
 - Install dependencies (numpy, pandas, scikit-learn): `pip install -r requirements.txt`
 - Run the main script or Jupyter Notebook to see the results.
 
