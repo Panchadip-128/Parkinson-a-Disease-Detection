@@ -28,8 +28,8 @@ The dataset (`sonar_data.csv`) consists of sonar signals with 60 numerical featu
 ## Results
 
 - **Accuracy:**
-  - Training Data: XX%
-  - Test Data: YY%
+  - Training Data: 84%
+  - Test Data: 76%
 
 ## Conclusion
 
