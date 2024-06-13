@@ -1,1 +1,1 @@
-# Parkinson-a-Disease-Detection
+SONAR Rock Vs Mine Prediction
